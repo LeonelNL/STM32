@@ -1,0 +1,10 @@
+23:39:57 **** Incremental Build of configuration Debug for project Turn ON LED ****
+make -j16 all 
+arm-none-eabi-size   Turn\ ON\ LED.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7812	     20	   1636	   9468	   24fc	Turn ON LED.elf
+Finished building: default.size.stdout
+ 
+
+23:39:57 Build Finished. 0 errors, 0 warnings. (took 191ms)
+
