@@ -1,0 +1,9 @@
+23:56:30 **** Build of configuration Debug for project Pruebas ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/ST/STM32CubeIDE_1.12.1/STM32CubeIDE//plugins/com.st.stm32cube.ide.jre.win64_2.4.101.202303251752/jre/bin/server;C:/ST/STM32CubeIDE_1.12.1/STM32CubeIDE//plugins/com.st.stm32cube.ide.jre.win64_2.4.101.202303251752/jre/bin;C:\Program Files\National Instruments\Shared\OpenVINO\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\80\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\National Instruments\Shared\LabVIEW CLI;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;C:\Program Files\Git\cmd;C:\Users\leone\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\leone\AppData\Local\Programs\Python\Python39\;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\Users\leone\AppData\Local\Programs\Microsoft VS Code\bin;C:\Exercism;C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE]
+
+23:56:30 Build Failed. 1 errors, 0 warnings. (took 50ms)
+
